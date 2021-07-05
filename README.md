@@ -11,7 +11,7 @@ Migrate videos from Youtube to Sina Weibo, a Chinese incarnation of Twitter.  Wo
 * keyboard: for keyboard mouse control `pip install keyboard`
 * youtube-dl: download youtube video  `pip install youtube-dl`
 * Selenium: control web browser `pip install Selenium`
-* Windows AutoIt: for native file upload selection [link] (https://www.autoitscript.com/site/)
+* Windows AutoIt: for native file upload selection (https://www.autoitscript.com/site/)
 
 # Setup Before Use
 * update config.py (see below for detail)
