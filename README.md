@@ -13,10 +13,6 @@ AutoIt: for native file upload selection
 
 TODO: 
 * page object
-* proof of completion / have to manually check 
-* clean up download after ward 
-* clean up youtube-links.txt
-* back up youtube-links.txt
 
 Setup Before Use
 * update config.py (see below for detail)
