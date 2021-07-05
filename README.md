@@ -20,20 +20,20 @@ https://blog.csdn.net/wuxiaobingandbob/article/details/53517074
 
 ## Configuration Setting (config.py)
 
-### FirefoxProfileFolder
+###### FirefoxProfileFolder
 
 Weibo uses a two-factor authentication mechansim. As a result, we don't want to simulate login every time we run this program. Therefore, we get around this by reusing current Firefox profile ( so we can reuse login session). 
 
 We need to find the path of the file of the current Firefox profile and then set FirefoxProfileFolder to that path
 https://support.mozilla.org/en-US/kb/profiles-where-firefox-stores-user-data
 
-### LandingPage
+###### LandingPage
 Simply find the page with a tweet button and the least amount of content. 
 
-### TimeOut
+###### TimeOut
 seconds to wait for web page elements to appear before killing the program. 
 
-### InputBoxX, InputBoxY
+###### InputBoxX, InputBoxY
 The input box for the title of the video prevents programmatic interactions with JavaScript/DOM/Selenium. This is probably a robot prevention mechanism. Therefore, I have to literally control the mouse and keyboard to enter the title. Use the following JavaScript code to the find the coordinate of the input box on your screen because different screen has different values.  
 
 `document.onclick=function(event) {
