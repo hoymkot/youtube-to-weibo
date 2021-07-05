@@ -8,6 +8,7 @@ download_from_youtube.cleanup()
 
 links = []
 
+# find links to download videos from
 with open('youtube-links.txt', 'r') as file:
 	links = file.readlines()
 
