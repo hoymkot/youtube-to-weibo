@@ -3,3 +3,5 @@ LandingPage = "https://weibo.com/u/page/follow/6390362912?relate=fans"
 TimeOut = 600
 InputBoxX=547
 InputBoxY=508
+VideoDir = "videos"
+CoverDir = "covers"
