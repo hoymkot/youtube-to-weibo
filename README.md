@@ -2,19 +2,16 @@
 
 Migrate videos from Youtube to Sina Weibo, a Chinese incarnation of Twitter.  Works as for 2021-07 
 
-# Entry Point
-
-`py youtube_to_weibo.py`
 
 # Requirements
 
 * Python 3.2+
-* Python Pillow: for image conversion
-* Python mouse: for native mouse control
-* Python keyboard: for keyboard mouse control
-* Python youtube-dl: download youtube video 
-* Python Selenium: control web browser
-* Windows AutoIt: for native file upload selection
+* Pillow: for image conversion `pip install Pillow`
+* mouse: for native mouse control `pip install mouse`
+* keyboard: for keyboard mouse control `pip install keyboard`
+* youtube-dl: download youtube video  `pip install youtube-dl`
+* Selenium: control web browser `pip install Selenium`
+* Windows AutoIt: for native file upload selection [link] (https://www.autoitscript.com/site/)
 
 # Setup Before Use
 * update config.py (see below for detail)
