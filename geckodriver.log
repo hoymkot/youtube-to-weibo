@@ -1,0 +1,1161 @@
+1625355285935	geckodriver	INFO	Listening on 127.0.0.1:11933
+1625355288941	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofile3qp3vf"
+1625355289696	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofile3qp3vf\\search.json.mozlz4", (void 0)))
+1625355292501	Marionette	INFO	Listening on port 11944
+1625355292589	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625355417032	Marionette	INFO	Stopped listening on port 1191625355422199	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofile2e0Qsg"
+1625355423034	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofile2e0Qsg\\search.json.mozlz4", (void 0)))
+1625355425781	Marionette	INFO	Listening on port 1106
+1625355425841	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625355429750	Marionette	INFO	Stopped listening on port 1106
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625355432059	geckodriver	INFO	Listening on 127.0.0.1:1071
+1625355442511	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofilebYWCra"
+1625355443253	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofilebYWCra\\search.json.mozlz4", (void 0)))
+1625355445886	Marionette	INFO	Listening on port 11016
+1625355446161	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625355453865	Marionette	INFO	Stopped listening on port 11016
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625355495902	geckodriver	INFO	Listening on 127.0.0.1:30363
+1625355506428	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofilek4qQMw"
+1625355507034	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofilek4qQMw\\search.json.mozlz4", (void 0)))
+1625355509738	Marionette	INFO	Listening on port 1040
+1625355510070	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1625355520235	Marionette	INFO	Stopped listening on port 1040
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625356356332	geckodriver	INFO	Listening on 127.0.0.1:15735
+1625356377001	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofilegLhNu3"
+1625356377537	Marionette	INFO	Marionette enabled
+1625356379555	Marionette	INFO	Listening on port 7700
+1625356379690	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PLVRLF&l=dataLayer, line 920: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PLVRLF&l=dataLayer, line 920: uncaught exception: [object Object]
+JavaScript error: chrome://marionette/content/driver.js, line 292: TypeError: this.currentSession is null
+JavaScript error: chrome://marionette/content/driver.js, line 292: TypeError: this.currentSession is null
+JavaScript error: chrome://marionette/content/driver.js, line 292: TypeError: this.currentSession is null
+JavaScript error: chrome://marionette/content/driver.js, line 292: TypeError: this.currentSession is null
+JavaScript error: chrome://marionette/content/driver.js, line 292: TypeError: this.currentSession is null
+JavaScript error: chrome://marionette/content/driver.js, line 292: TypeError: this.currentSession is null
+JavaScript error: chrome://marionette/content/driver.js, line 292: TypeError: this.currentSession is null
+JavaScript error: chrome://marionette/content/driver.js, line 292: TypeError: this.currentSession is null
+JavaScript error: chrome://marionette/content/driver.js, line 292: TypeError: this.currentSession is null
+JavaScript error: chrome://marionette/content/driver.js, line 292: TypeError: this.currentSession is null
+JavaScript error: chrome://marionette/content/driver.js, line 292: TypeError: this.currentSession is null
+JavaScript error: chrome://marionette/content/driver.js, line 292: TypeError: this.currentSession is null
+JavaScript error: chrome://marionette/content/driver.js, line 292: TypeError: this.currentSession is null
+JavaScript error: chrome://marionette/content/driver.js, line 292: TypeError: this.currentSession is null
+JavaScript error: chrome://marionette/content/driver.js, line 292: TypeError: this.currentSession is null
+JavaScript error: chrome://marionette/content/driver.js, line 292: TypeError: this.currentSession is null
+JavaScript error: chrome://marionette/content/driver.js, line 292: TypeError: this.currentSession is null
+JavaScript error: chrome://marionette/content/driver.js, line 292: TypeError: this.currentSession is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 15576, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625356402366	Marionette	INFO	Stopped listening on port 7700
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625356469212	geckodriver	INFO	Listening on 127.0.0.1:27770
+1625356487978	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofileKxcb71"
+1625356488276	Marionette	INFO	Marionette enabled
+1625356490081	Marionette	INFO	Listening on port 1030
+1625356490123	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625356494106	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PLVRLF&l=dataLayer, line 920: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PLVRLF&l=dataLayer, line 920: uncaught exception: [object Object]
+1625356515221	Marionette	INFO	Stopped listening on port 1030
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625356767084	geckodriver	INFO	Listening on 127.0.0.1:1033
+1625356789890	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofileNY5S1U"
+1625356790840	Marionette	INFO	Marionette enabled
+1625356793175	Marionette	INFO	Listening on port 30115
+1625356793534	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625356796662	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1625356973428	Marionette	INFO	Stopped listening on port 30115
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofileJQFewC"
+1625356909907	Marionette	INFO	Marionette enabled
+1625356912162	Marionette	INFO	Listening on port 28353
+1625356912405	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625356915469	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Parent 19352, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1625356970827	Marionette	INFO	Stopped listening on port 28353
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625356982039	geckodriver	INFO	Listening on 127.0.0.1:29407
+1625357001312	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofileN5ojQd"
+1625357001674	Marionette	INFO	Marionette enabled
+1625357003572	Marionette	INFO	Listening on port 1031
+1625357003686	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625357006486	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PLVRLF&l=dataLayer, line 920: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PLVRLF&l=dataLayer, line 920: uncaught exception: [object Object]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625357057551	Marionette	INFO	Stopped listening on port 1031
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625357065515	geckodriver	INFO	Listening on 127.0.0.1:31707
+1625357084793	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofileMHspDj"
+1625357085304	Marionette	INFO	Marionette enabled
+1625357087164	Marionette	INFO	Listening on port 8823
+1625357087426	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625357090987	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1625357235451	Marionette	INFO	Stopped listening on port 8823
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625357242765	geckodriver	INFO	Listening on 127.0.0.1:6357
+1625357262257	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofilezFqped"
+1625357262588	Marionette	INFO	Marionette enabled
+1625357264583	Marionette	INFO	Listening on port 1030
+1625357264890	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625357268195	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1#, line 16: Script terminated by timeout at:
+_.k@/accounts/static/_/js/k=gaia.gaiafe_glif.en.2GRKJDdvkFo.O/am=B0Bxh4lKGCABAEAOAAAAACAAAHA0ACgHczzDJw/d=1/excm=glif_initial_css/rs=ABkqax0KtIE2YixcsGw2RvvV0O81GzIUow/m=glifb,identifier_view,unknownerror_view:16:308
+@https://ssl.gstatic.com/accounts/static/_/js/k=gaia.gaiafe_glif.en.2GRKJDdvkFo.O/am=B0Bxh4lKGCABAEAOAAAAACAAAHA0ACgHczzDJw/d=0/excm=glif_initial_css/ed=1/rs=ABkqax0KtIE2YixcsGw2RvvV0O81GzIUow/m=sy7y,sy7z,sy80,sy82,sy83,sya0,pwd_view:3:3
+@https://ssl.gstatic.com/accounts/static/_/js/k=gaia.gaiafe_glif.en.2GRKJDdvkFo.O/am=B0Bxh4lKGCABAEAOAAAAACAAAHA0ACgHczzDJw/d=0/excm=glif_initial_css/ed=1/rs=ABkqax0KtIE2YixcsGw2RvvV0O81GzIUow/m=sy7y,sy7z,sy80,sy82,sy83,sya0,pwd_view:83:3
+
+1625357380942	Marionette	INFO	Stopped listening on port 1031625357397148	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofile3RWgsR"
+1625357397682	Marionette	INFO	Marionette enabled
+1625357399848	Marionette	INFO	Listening on port 11936
+1625357400295	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625357405571	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1625357586972	Marionette	INFO	Stopped listening on port 11936
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625357588541	geckodriver	INFO	Listening on 127.0.0.1:1026
+1625357609669	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofileKifJVp"
+1625357610235	Marionette	INFO	Marionette enabled
+1625357612143	Marionette	INFO	Listening on port 10343
+1625357612310	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625357616286	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1625357665437	Marionette	INFO	Stopped listening on port 10343
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625357671208	geckodriver	INFO	Listening on 127.0.0.1:28028
+1625357690254	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofileC3zNBX"
+1625357690560	Marionette	INFO	Marionette enabled
+1625357692677	Marionette	INFO	Listening on port 1036
+1625357692885	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625357696154	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1625357749371	Marionette	INFO	Stopped listening on port 1036
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625357756020	geckodriver	INFO	Listening on 127.0.0.1:1025
+1625357774661	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofileMiPuKh"
+1625357775176	Marionette	INFO	Marionette enabled
+1625357777095	Marionette	INFO	Listening on port 1026
+1625357777298	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625357780754	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1625357853833	Marionette	INFO	Stopped listening on port 1026
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625357863682	geckodriver	INFO	Listening on 127.0.0.1:29575
+1625357882771	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofilekfWe1G"
+1625357883110	Marionette	INFO	Marionette enabled
+1625357884897	Marionette	INFO	Listening on port 24619
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+1625357885405	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625358024158	Marionette	INFO	Stopped listening on port 24619
+1625358030886	geckodriver	INFO	Listening on 127.0.0.1:28751
+1625358049918	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofile3imIPu"
+1625358050460	Marionette	INFO	Marionette enabled
+1625358052190	Marionette	INFO	Listening on port 1031
+1625358052552	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625358055656	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PLVRLF&l=dataLayer, line 920: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PLVRLF&l=dataLayer, line 920: uncaught exception: [object Object]
+1625358593361	Marionette	INFO	Stopped listening on port 1031
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625358594065	geckodriver	INFO	Listening on 127.0.0.1:6670
+1625358612640	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofile9jDTeC"
+1625358613200	Marionette	INFO	Marionette enabled
+1625358615221	Marionette	INFO	Listening on port 10533
+1625358615281	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625358618506	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1625358690366	Marionette	INFO	Stopped listening on port 1051625358708471	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofilesqneMU"
+1625358709027	Marionette	INFO	Marionette enabled
+1625358710997	Marionette	INFO	Listening on port 1028
+1625358711121	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625358713983	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1625358776066	Marionette	INFO	Stopped listening on port 1028
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625358782942	geckodriver	INFO	Listening on 127.0.0.1:1026
+1625358803112	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofilei6XGnG"
+1625358803938	Marionette	INFO	Marionette enabled
+1625358806406	Marionette	INFO	Listening on port 1033
+1625358806781	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625358809834	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PLVRLF&l=dataLayer, line 920: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PLVRLF&l=dataLayer, line 920: uncaught exception: [object Object]
+1625359029381	Marionette	INFO	Stopped listening on port 1033
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625359041679	geckodriver	INFO	Listening on 127.0.0.1:18736
+1625359062634	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofileglNpGR"
+1625359063312	Marionette	INFO	Marionette enabled
+1625359065298	Marionette	INFO	Listening on port 1025
+1625359065819	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625359069702	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 15692, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Child 15692, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1625359365914	Marionette	INFO	Stopped listening on port 1025
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625359376199	geckodriver	INFO	Listening on 127.0.0.1:1026
+1625359395355	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofilepRcvUU"
+1625359395937	Marionette	INFO	Marionette enabled
+1625359397980	Marionette	INFO	Listening on port 16634
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+1625359398490	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625359401472	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1625360461548	Marionette	INFO	Stopped listening on port 16634
+1625360468614	geckodriver	INFO	Listening on 127.0.0.1:7598
+1625360489442	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofilecWtlOu"
+1625360490287	Marionette	INFO	Marionette enabled
+1625360493294	Marionette	INFO	Listening on port 1041
+1625360493603	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625360497969	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1# line 1 > eval, line 5977: Script terminated by timeout at:
+KI<@https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1# line 1 > eval:5977:29615
+B.prototype.M</<@https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1# line 1 > eval:5977:32105
+Ff@https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1# line 1 > eval:5977:26503
+W5@https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1# line 1 > eval:5977:33701
+bP@https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1# line 1 > eval:5977:33485
+mk<@https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1# line 1 > eval:5977:26287
+B@https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1# line 1 > eval:5977:11987
+$t@https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1# line 1 > eval:5977:7303
+lP@https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1# line 1 > eval:5977:12080
+e.ydA_/<@https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1#:1:37070
+U/<@https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1#:1:829
+c@/accounts/static/_/js/k=gaia.gaiafe_glif.en.2GRKJDdvkFo.O/am=B0Bxh4lKGCABAEAOAAAAACAAAHA0ACgHczzDJw/d=1/excm=glif_initial_css/rs=ABkqax0KtIE2YixcsGw2RvvV0O81GzIUow/m=glifb,identifier_view,unknownerror_view:658:253
+
+1625360608994	Marionette	INFO	Stopped listening on port 10411625360622277	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofile42uGEz"
+1625360623031	Marionette	INFO	Marionette enabled
+1625360624991	Marionette	INFO	Listening on port 29034
+1625360625413	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PLVRLF&l=dataLayer, line 920: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PLVRLF&l=dataLayer, line 920: uncaught exception: [object Object]
+1625360674423	Marionette	INFO	Stopped listening on port 29034
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625360701330	geckodriver	INFO	Listening on 127.0.0.1:1091
+1625360724889	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofiles4j2iT"
+1625360725848	Marionette	INFO	Marionette enabled
+1625360728648	Marionette	INFO	Listening on port 29061
+1625360729160	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625360732906	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: chrome://marionette/content/driver.js, line 292: TypeError: this.currentSession is null
+JavaScript error: chrome://marionette/content/driver.js, line 292: TypeError: this.currentSession is null
+JavaScript error: chrome://marionette/content/driver.js, line 292: TypeError: this.currentSession is null
+JavaScript error: chrome://marionette/content/driver.js, line 292: TypeError: this.currentSession is null
+JavaScript error: chrome://marionette/content/driver.js, line 292: TypeError: this.currentSession is null
+JavaScript error: chrome://marionette/content/driver.js, line 292: TypeError: this.currentSession is null
+1625360811827	Marionette	INFO	Stopped listening on port 29061
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625360817528	geckodriver	INFO	Listening on 127.0.0.1:1025
+1625360836939	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofile4Aonng"
+1625360837464	Marionette	INFO	Marionette enabled
+1625360839299	Marionette	INFO	Listening on port 1027
+1625360839576	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625360842579	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1625363334458	Marionette	INFO	Stopped listening on port 1027
+1625363345507	geckodriver	INFO	Listening on 127.0.0.1:1025
+1625363367441	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofilegqRmHT"
+1625363368433	Marionette	INFO	Marionette enabled
+1625363370728	Marionette	INFO	Listening on port 1034
+1625363371119	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625363373844	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1625363466610	Marionette	INFO	Stopped listening on port 1034
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625363501514	geckodriver	INFO	Listening on 127.0.0.1:1030
+1625363523019	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofilecCf0zw"
+1625363523989	Marionette	INFO	Marionette enabled
+1625363526617	Marionette	INFO	Listening on port 1031
+1625363526685	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625363530834	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1625364055650	Marionette	INFO	Stopped listening on port 1031
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625364185157	geckodriver	INFO	Listening on 127.0.0.1:10172
+1625364204959	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofileMVG6tr"
+1625364205914	Marionette	INFO	Marionette enabled
+1625364208234	Marionette	INFO	Listening on port 1034
+1625364208600	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625364211335	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1625364388335	Marionette	INFO	Stopped listening on port 1034
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625364394241	geckodriver	INFO	Listening on 127.0.0.1:10569
+1625364414577	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofileZPjpZb"
+1625364415202	Marionette	INFO	Marionette enabled
+1625364417477	Marionette	INFO	Listening on port 1032
+[Parent 17052, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 17052, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1625364417922	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625364421123	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1625364457758	Marionette	INFO	Stopped listening on port 1032
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625364468872	geckodriver	INFO	Listening on 127.0.0.1:19015
+1625364490330	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofileU8eWVc"
+1625364490667	Marionette	INFO	Marionette enabled
+1625364492780	Marionette	INFO	Listening on port 1025
+1625364492965	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625364496101	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PLVRLF&l=dataLayer, line 920: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PLVRLF&l=dataLayer, line 920: uncaught exception: [object Object]
+1625364539642	Marionette	INFO	Stopped listening on port 1025
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625364547472	geckodriver	INFO	Listening on 127.0.0.1:1026
+1625364570851	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofilezVlPJy"
+1625364571191	Marionette	INFO	Marionette enabled
+1625364573089	Marionette	INFO	Listening on port 24619
+1625364573506	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625364576557	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Parent 392, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1625364748313	Marionette	INFO	Stopped listening on port 24619
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625364763922	geckodriver	INFO	Listening on 127.0.0.1:23087
+1625364787611	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofileh9DH6W"
+1625364788203	Marionette	INFO	Marionette enabled
+1625364790218	Marionette	INFO	Listening on port 1026
+1625364790260	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625364793302	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1625365000535	Marionette	INFO	Stopped listening on port 1026
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625365005612	geckodriver	INFO	Listening on 127.0.0.1:12402
+1625365024592	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofile9Ofd2k"
+1625365024915	Marionette	INFO	Marionette enabled
+1625365026715	Marionette	INFO	Listening on port 1031
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+1625365027227	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625365030891	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.gstatic.com/_/mss/boq-one-google/_/js/k=boq-one-google.OneGoogleWidgetUi.en.UFlee9UK33c.es5.O/am=WAAAAQ/d=1/excm=_b,_tp,appwidgetauthview/ed=1/dg=0/wt=2/rs=AM-SdHu2cl7lNfOHsq6n-fhrXJuM7yWK6w/m=_b,_tp, line 616: NS_ERROR_NOT_INITIALIZED: 
+[Parent 9924, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.3b95305d6b001a12d471.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.3b95305d6b001a12d471.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.3b95305d6b001a12d471.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.3b95305d6b001a12d471.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js, line 37: Script terminated by timeout at:
+Ei@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:37:50997
+ki/<@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:37:55811
+ju@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:37:65789
+Fu@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:37:69972
+Du@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:37:69670
+ma@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:37:105469
+lc@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:37:96718
+ac@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:37:96641
+Za@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:37:93671
+Qo/<@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:37:45313
+vendor_f04deb6fd8cc3116a458</t.unstable_runWithPriority@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:45:3846
+Wo@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:37:45022
+Qo@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:37:45260
+$o@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:37:45193
+Ka@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:37:90456
+enqueueSetState@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:37:48978
+vendor_f04deb6fd8cc3116a458</w.prototype.setState@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:29:1296
+componentWillMount/this._unlisten<@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:6:44665
+r/<@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:6:13355
+s/<@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:6:12103
+o/</</<@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:1:13362
+o/</<@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:1:13374
+vendor_f04deb6fd8cc3116a458</t.default/</<@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:6:64208
+vendor_f04deb6fd8cc3116a458</t.default/<@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:6:64386
+o/<@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:1:13286
+o@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:1:13262
+vendor_f04deb6fd8cc3116a458</t.default@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:6:64134
+s@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:6:12078
+l@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:1:13174
+r@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:1:13180
+i@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:6:61886
+runEnterHooks@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:6:62137
+m/<@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:6:12290
+i@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:6:61954
+runChangeHooks@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:6:62409
+m@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:6:12244
+v/<@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:6:11896
+c@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:1:13035
+f/</<@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:6:42955
+m/<@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:6:42563
+c@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:1:13035
+f/</<@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:6:42955
+m/<@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:6:42563
+c@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:1:13035
+f/</<@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:6:42955
+m/<@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:6:42563
+l@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:1:13145
+r@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:1:13180
+f@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:6:42893
+m@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:6:42512
+c/<@https://static.zhihu.com/heifetz/vendor.f04deb6fd8cc3116a458.js:6:41182
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156344&predirect=https%3A%2F%2Fsync.technoratimedia.com%2Fservices%3Fsrv%3Dcs%26pid%3D45%26uid%3D, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156344&predirect=https%3A%2F%2Fsync.technoratimedia.com%2Fservices%3Fsrv%3Dcs%26pid%3D45%26uid%3D, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156344&predirect=https%3A%2F%2Fsync.technoratimedia.com%2Fservices%3Fsrv%3Dcs%26pid%3D45%26uid%3D, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156344&predirect=https%3A%2F%2Fsync.technoratimedia.com%2Fservices%3Fsrv%3Dcs%26pid%3D45%26uid%3D, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156344&predirect=https%3A%2F%2Fsync.technoratimedia.com%2Fservices%3Fsrv%3Dcs%26pid%3D45%26uid%3D, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156344&predirect=https%3A%2F%2Fsync.technoratimedia.com%2Fservices%3Fsrv%3Dcs%26pid%3D45%26uid%3D, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156077&predirect=https%3A%2F%2Fsync.connectad.io%2Fumatch%2F1%3Fdataid%3Ddata1%26uuid%3D, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156077&predirect=https%3A%2F%2Fsync.connectad.io%2Fumatch%2F1%3Fdataid%3Ddata1%26uuid%3D, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://di.rlcdn.com/710436.html?pdata=campaignid=24831024,placementid=290369111,siteid=5552106,creativeid=146698923, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://di.rlcdn.com/710436.html?pdata=campaignid=24831024,placementid=290369111,siteid=5552106,creativeid=123179983, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156011&s=165626&predirect=https%3A%2F%2Fs.amazon-adsystem.com%2Fecm3%3Fid%3DPM_UID%26ex%3Dpubmatic.com&userIdMacro=PM_UID&gdpr=0, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://di.rlcdn.com/710436.html?pdata=campaignid=24831024,placementid=290369093,siteid=5552106,creativeid=146624048, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567733&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567731&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://rtbcdn.doubleverify.com/bsredirect5_internal68.js, line 278: TypeError: parentElement is null
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567731&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567733&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567733&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.viglink.com/api/vglnk.js, line 20: SecurityError: Permission denied to access property "nodeType" on cross-origin object
+JavaScript error: https://cdn.viglink.com/api/vglnk.js, line 20: SecurityError: Permission denied to access property "nodeType" on cross-origin object
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567731&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567731&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567733&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567731&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://cdn.viglink.com/api/vglnk.js, line 20: SecurityError: Permission denied to access property "nodeType" on cross-origin object
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567733&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567733&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567731&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567731&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567733&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567731&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://cdn.viglink.com/api/vglnk.js, line 20: SecurityError: Permission denied to access property "nodeType" on cross-origin object
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567733&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://rtbcdn.doubleverify.com/bsredirect5_internal68.js, line 278: TypeError: parentElement is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567731&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567733&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567731&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567733&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://cdn.viglink.com/api/vglnk.js, line 20: SecurityError: Permission denied to access property "nodeType" on cross-origin object
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567731&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567733&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567731&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567733&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567731&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://cdn.viglink.com/api/vglnk.js, line 20: SecurityError: Permission denied to access property "nodeType" on cross-origin object
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567733&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567733&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567731&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://cdn.viglink.com/api/vglnk.js, line 20: SecurityError: Permission denied to access property "nodeType" on cross-origin object
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567733&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567731&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567731&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567733&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567731&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567733&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://cdn.viglink.com/api/vglnk.js, line 20: SecurityError: Permission denied to access property "nodeType" on cross-origin object
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567731&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567733&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567731&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567733&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567733&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://cdn.viglink.com/api/vglnk.js, line 20: SecurityError: Permission denied to access property "nodeType" on cross-origin object
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567731&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567733&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567733&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567733&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://cdn.viglink.com/api/vglnk.js, line 20: SecurityError: Permission denied to access property "nodeType" on cross-origin object
+JavaScript error: https://cdn.viglink.com/api/vglnk.js, line 20: SecurityError: Permission denied to access property "nodeType" on cross-origin object
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.viglink.com/api/vglnk.js, line 20: SecurityError: Permission denied to access property "nodeType" on cross-origin object
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/chunk-vendors.59cf70e4.js, line 69: TypeError: this.el_ is null
+1625375947075	Marionette	INFO	Stopped listening on port 1031625375960019	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofileZHW8aJ"
+1625375960660	Marionette	INFO	Marionette enabled
+1625375962706	Marionette	INFO	Listening on port 1028
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+1625375963170	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625375966660	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1625376384734	Marionette	INFO	Stopped listening on port 1028
+1625376391966	geckodriver	INFO	Listening on 127.0.0.1:1031
+1625376410516	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofileSUcg0V"
+1625376410846	Marionette	INFO	Marionette enabled
+1625376412825	Marionette	INFO	Listening on port 19563
+1625376413148	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625376418168	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1625376448807	Marionette	INFO	Stopped listening on port 19563
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625376465092	geckodriver	INFO	Listening on 127.0.0.1:33635
+1625376483519	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofile0CUN6e"
+1625376483868	Marionette	INFO	Marionette enabled
+1625376485560	Marionette	INFO	Listening on port 26097
+1625376485675	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625376489048	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1625376598654	Marionette	INFO	Stopped listening on port 26097
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625376601888	geckodriver	INFO	Listening on 127.0.0.1:1025
+1625376620214	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofileTu3fzA"
+1625376620546	Marionette	INFO	Marionette enabled
+1625376622496	Marionette	INFO	Listening on port 1026
+1625376622845	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625376626123	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1625376666258	Marionette	INFO	Stopped listening on port 1026
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625376713003	geckodriver	INFO	Listening on 127.0.0.1:1026
+1625376731279	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofileUSpSvY"
+1625376731777	Marionette	INFO	Marionette enabled
+1625376733539	Marionette	INFO	Listening on port 10682
+1625376733924	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625376736987	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1625376836494	Marionette	INFO	Stopped listening on port 10681625376852762	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofileGl0tHV"
+1625376853099	Marionette	INFO	Marionette enabled
+1625376854877	Marionette	INFO	Listening on port 4519
+1625376854910	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625376858404	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PLVRLF&l=dataLayer, line 920: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PLVRLF&l=dataLayer, line 920: uncaught exception: [object Object]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://weibo.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://weibo.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://weibo.com"
+[Parent 15628, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:126:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:814:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:699:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 126, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 126))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:126:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:814:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:699:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 126, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 126))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:126:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:814:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:699:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 126, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 126))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://mk0softwaretest0wpxx.kinstacdn.com/wp-content/plugins/cookie-law-info/public/js/cookie-law-info-public.js?ver=2.0.4, line 262: ReferenceError: jQuery is not defined
+JavaScript error: https://mk0softwaretest0wpxx.kinstacdn.com/wp-content/plugins/cookie-law-info/admin/modules/ccpa/assets/js/cookie-law-info-ccpa.js?ver=2.0.4, line 44: ReferenceError: jQuery is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://weibo.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://weibo.com"
+JaJavaScript error: , linvaScript error: Je 0: TypJaeError: NetworkError when attempting to fetch resource.
+avaScript error: , line 0: vaSTyJavaScript error: , line 0: TypeError: NetworkError when attemptcing to fetch resource.
+,ript error: , line 0:peError: Networ  TypeError: NetworkError when attempting to fetch resource.kError when attempting to 
+line 0: Tfetch resource.
+ypeError: NetworkError wheJavaScript error:n attempting to fetch resource. , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resourJce.avaSJavaScript error: , line 0:
+JcriptavaScript error: , line 0: TypeError error: , li JavaScripTypeError: NetworkError :tn NetworkError when attempting to fetch resource.e 0: TypeError: NetworkError when attempting to fetch resource.
+ w
+ehen attempting to fetch resource.
+rJavaScripror: , line 0: TypeError: NetworkError when attempting to fetcth resource. error
+: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1625378266519	Marionette	INFO	Stopped listening on port 4519
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625378272759	geckodriver	INFO	Listening on 127.0.0.1:25427
+1625378292257	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofileA0Og8t"
+1625378292839	Marionette	INFO	Marionette enabled
+1625378294840	Marionette	INFO	Listening on port 1025
+1625378294902	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625378297864	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PLVRLF&l=dataLayer, line 920: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PLVRLF&l=dataLayer, line 920: uncaught exception: [object Object]
+1625378923842	Marionette	INFO	Stopped listening on port 1025
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625378928865	geckodriver	INFO	Listening on 127.0.0.1:23222
+1625378947725	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofilebxjtQ2"
+1625378948379	Marionette	INFO	Marionette enabled
+1625378950245	Marionette	INFO	Listening on port 21377
+1625378950383	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625378953578	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1625378967261	Marionette	INFO	Stopped listening on port 21377
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625378971109	geckodriver	INFO	Listening on 127.0.0.1:5106
+1625378989524	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofilel5nQmC"
+1625378989832	Marionette	INFO	Marionette enabled
+1625378991508	Marionette	INFO	Listening on port 30694
+1625378991559	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625378995048	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1625379044842	Marionette	INFO	Stopped listening on port 30694
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625379055497	geckodriver	INFO	Listening on 127.0.0.1:20625
+1625379073766	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofileBQCCBy"
+1625379074319	Marionette	INFO	Marionette enabled
+1625379076099	Marionette	INFO	Listening on port 10996
+1625379076399	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625379082012	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PLVRLF&l=dataLayer, line 920: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PLVRLF&l=dataLayer, line 920: uncaught exception: [object Object]
+1625379258356	Marionette	INFO	Stopped listening on port 10996
+1625379263316	geckodriver	INFO	Listening on 127.0.0.1:16578
+1625379281778	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofilehcYYFq"
+1625379282310	Marionette	INFO	Marionette enabled
+1625379284255	Marionette	INFO	Listening on port 1035
+1625379284423	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625379288953	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1625379355457	Marionette	INFO	Stopped listening on port 1035
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625379363610	geckodriver	INFO	Listening on 127.0.0.1:10672
+1625379382086	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofilecIQNAM"
+1625379382557	Marionette	INFO	Marionette enabled
+1625379384246	Marionette	INFO	Listening on port 1028
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+1625379384721	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625379388141	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+1625379501339	Marionette	INFO	Stopped listening on port 1028
+1625379505761	geckodriver	INFO	Listening on 127.0.0.1:32323
+1625379525839	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofileVS6MPe"
+1625379526467	Marionette	INFO	Marionette enabled
+1625379528330	Marionette	INFO	Listening on port 1033
+1625379528483	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625379531856	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/chunk-4ff11e75.fa30ced1.js, line 1: Error: 系统异常
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/chunk-4ff11e75.fa30ced1.js, line 1: Error: 系统异常
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://weibo.com"
+1625379651086	Marionette	INFO	Stopped listening on port 1033
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625379656218	geckodriver	INFO	Listening on 127.0.0.1:11646
+1625379674389	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofileqYkKBX"
+1625379674834	Marionette	INFO	Marionette enabled
+1625379676655	Marionette	INFO	Listening on port 33575
+[Parent 17772, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1625379677047	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625379680506	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/chunk-4ff11e75.fa30ced1.js, line 1: Error: 系统异常
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/chunk-4ff11e75.fa30ced1.js, line 1: Error: 系统异常
+[Parent 17772, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1625379835801	Marionette	INFO	Stopped listening on port 33575
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625379842090	geckodriver	INFO	Listening on 127.0.0.1:1030
+1625379860121	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofile34c405"
+1625379860538	Marionette	INFO	Marionette enabled
+1625379862243	Marionette	INFO	Listening on port 3860
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+1625379862758	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625379865825	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/chunk-4ff11e75.fa30ced1.js, line 1: Error: 系统异常
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/chunk-4ff11e75.fa30ced1.js, line 1: Error: 系统异常
+1625379929552	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1625379968909	Marionette	INFO	Stopped listening on port 3860
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625379974908	geckodriver	INFO	Listening on 127.0.0.1:1026
+1625379993087	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofileLXG4Wu"
+1625379993417	Marionette	INFO	Marionette enabled
+1625379995398	Marionette	INFO	Listening on port 23555
+1625379995719	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625379998571	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1625380100308	Marionette	INFO	Stopped listening on port 2351625380118649	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofileCfNqaq"
+1625380119909	Marionette	INFO	Marionette enabled
+1625380121705	Marionette	INFO	Listening on port 33376
+1625380121968	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625380125120	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1625382288447	Marionette	INFO	Stopped listening on port 33376
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofileGp9Mt8"
+1625382104526	Marionette	INFO	Marionette enabled
+1625382106713	Marionette	INFO	Listening on port 1043
+1625382106901	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625382110917	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1625382289577	Marionette	INFO	Stopped listening on port 1043
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625382356882	geckodriver	INFO	Listening on 127.0.0.1:10347
+1625382375117	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofilebLKqq7"
+1625382376012	Marionette	INFO	Marionette enabled
+1625382377835	Marionette	INFO	Listening on port 30403
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+1625382378348	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625382382904	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PLVRLF&l=dataLayer, line 920: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PLVRLF&l=dataLayer, line 920: uncaught exception: [object Object]
+1625382442526	Marionette	INFO	Stopped listening on port 30403
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625382447388	geckodriver	INFO	Listening on 127.0.0.1:1026
+1625382465064	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofileeEikdG"
+1625382465373	Marionette	INFO	Marionette enabled
+1625382467313	Marionette	INFO	Listening on port 1029
+1625382467706	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625382470851	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1625383346328	Marionette	INFO	Stopped listening on port 1029
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625383371925	geckodriver	INFO	Listening on 127.0.0.1:23302
+1625383391465	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofiletDaP5C"
+1625383392162	Marionette	INFO	Marionette enabled
+1625383394582	Marionette	INFO	Listening on port 22697
+1625383394619	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625383397711	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://weibo.com"
+1625383720865	Marionette	INFO	Stopped listening on port 22697
+1625383726251	geckodriver	INFO	Listening on 127.0.0.1:22037
+1625383744503	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofilexm1zV3"
+1625383744858	Marionette	INFO	Marionette enabled
+1625383746847	Marionette	INFO	Listening on port 27331
+1625383747161	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625383749871	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PLVRLF&l=dataLayer, line 920: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PLVRLF&l=dataLayer, line 920: uncaught exception: [object Object]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://weibo.com"
+1625384003349	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discuss.newrelic.com"
+[Parent 18700, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1625384141402	Marionette	INFO	Stopped listening on port 27331
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625384147882	geckodriver	INFO	Listening on 127.0.0.1:2413
+1625384170156	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofileUcYwHG"
+1625384170843	Marionette	INFO	Marionette enabled
+1625384172928	Marionette	INFO	Listening on port 1031
+1625384173298	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625384178037	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PLVRLF&l=dataLayer, line 920: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PLVRLF&l=dataLayer, line 920: uncaught exception: [object Object]
+1625419912623	Marionette	INFO	Stopped listening on port 1031
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625426773099	geckodriver	INFO	Listening on 127.0.0.1:12969
+1625426792809	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofileDvbCK8"
+1625426793930	Marionette	INFO	Marionette enabled
+1625426798269	Marionette	INFO	Listening on port 8936
+1625426798580	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625426802272	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PLVRLF&l=dataLayer, line 920: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PLVRLF&l=dataLayer, line 920: uncaught exception: [object Object]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://weibo.com"
+[Parent 6820, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1625427364333	Marionette	INFO	Stopped listening on port 8936
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625427370258	geckodriver	INFO	Listening on 127.0.0.1:5005
+1625427389212	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofileacBP8c"
+1625427389827	Marionette	INFO	Marionette enabled
+1625427391870	Marionette	INFO	Listening on port 1244
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+1625427392365	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625427395686	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1625427714213	Marionette	INFO	Stopped listening on port 1244
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625427719701	geckodriver	INFO	Listening on 127.0.0.1:13170
+1625427737695	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofile2o7AQ5"
+1625427738277	Marionette	INFO	Marionette enabled
+1625427740291	Marionette	INFO	Listening on port 12086
+1625427740348	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625427744202	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1625427863136	Marionette	INFO	Stopped listening on port 12086
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625427868023	geckodriver	INFO	Listening on 127.0.0.1:1026
+1625427886737	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofileQk3HkG"
+1625427887085	Marionette	INFO	Marionette enabled
+1625427888887	Marionette	INFO	Listening on port 30045
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+1625427889371	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625427893667	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+1625435646872	Marionette	INFO	Stopped listening on port 30045
+1625435647939	geckodriver	INFO	Listening on 127.0.0.1:25370
+1625435668002	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofile9hG131"
+1625435669141	Marionette	INFO	Marionette enabled
+1625435671436	Marionette	INFO	Listening on port 1027
+1625435671651	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625435675007	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PLVRLF&l=dataLayer, line 920: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PLVRLF&l=dataLayer, line 920: uncaught exception: [object Object]
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/domwalker29, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:546:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:113:18\nstop@resource://devtools/client/inspector/node-picker.js:176:18\n_destroyToolbox@resource://devtools/client/framework/toolbox.js:3738:24\ndestroy@resource://devtools/client/framework/toolbox.js:3672:10\ncloseToolbox@resource://devtools/client/framework/toolbox.js:3648:16\nonClick@resource://devtools/client/framework/components/ToolboxToolbar.js:456:26\ninvokeGuardedCallbackImpl@resource://devtools/client/shared/vendor/react-dom.js:74:10\ninvokeGuardedCallback@resource://devtools/client/shared/vendor/react-dom.js:111:29\ninvokeGuardedCallbackAndCatchFirstError@resource://devtools/client/shared/vendor/react-dom.js:125:25\nexecuteDispatch@resource://devtools/client/shared/vendor/react-dom.js:346:42\nexecuteDispatchesInOrder@resource://devtools/client/shared/vendor/react-dom.js:365:20\nexecuteDispatchesAndRelease@resource://devtools/client/shared/vendor/react-dom.js:462:29\nexecuteDispatchesAndReleaseTopLevel@resource://devtools/client/shared/vendor/react-dom.js:470:10\nforEachAccumulated@resource://devtools/client/shared/vendor/react-dom.js:444:8\nrunEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:598:21\nrunExtractedEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:606:19\nhandleTopLevel@resource://devtools/client/shared/vendor/react-dom.js:4272:30\nbatchedUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15752:12\nbatchedUpdates@resource://devtools/client/shared/vendor/react-dom.js:1882:12\ndispatchEvent@resource://devtools/client/shared/vendor/react-dom.js:4351:19\ninteractiveUpdates$1/<@resource://devtools/client/shared/vendor/react-dom.js:15803:14\nunstable_runWithPriority@resource://devtools/client/shared/vendor/react.js:617:12\ninteractiveUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15802:12\ninteractiveUpdates@resource://devtools/client/shared/vendor/react-dom.js:1901:10\ndispatchInteractiveEvent@resource://devtools/client/shared/vendor/react-dom.js:4328:21\n", "resource://devtools/shared/protocol/Front.js", 103))
+1625436562450	Marionette	INFO	Stopped listening on port 1027
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625436570289	geckodriver	INFO	Listening on 127.0.0.1:25695
+1625436588706	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofilePI8Cba"
+1625436589331	Marionette	INFO	Marionette enabled
+1625436591336	Marionette	INFO	Listening on port 25704
+1625436591842	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625436596627	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Parent 15576, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: https://www.w3schools.com/css/css_attribute_selectors.asp, line 5: SyntaxError: invalid increment/decrement operand
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567733&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567731&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://cdn.viglink.com/api/vglnk.js, line 20: SecurityError: Permission denied to access property "nodeType" on cross-origin object
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://cdn.viglink.com/api/vglnk.js, line 20: SecurityError: Permission denied to access property "nodeType" on cross-origin object
+JavaScript error: https://cdn.viglink.com/api/vglnk.js, line 20: SecurityError: Permission denied to access property "nodeType" on cross-origin object
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://cdn.viglink.com/api/vglnk.js, line 20: SecurityError: Permission denied to access property "nodeType" on cross-origin object
+JavaScript error: https://cdn.viglink.com/api/vglnk.js, line 20: SecurityError: Permission denied to access property "nodeType" on cross-origin object
+JavaScript error: https://cdn.viglink.com/api/vglnk.js, line 20: SecurityError: Permission denied to access property "nodeType" on cross-origin object
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567733&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567733&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://cdn.viglink.com/api/vglnk.js, line 20: SecurityError: Permission denied to access property "nodeType" on cross-origin object
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567731&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://cdn.viglink.com/api/vglnk.js, line 20: SecurityError: Permission denied to access property "nodeType" on cross-origin object
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://cdn.viglink.com/api/vglnk.js, line 20: SecurityError: Permission denied to access property "nodeType" on cross-origin object
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567731&width=300&height=250, line 2: TypeError: this.log is not a function
+[Parent 15576, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567733&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://cdn.viglink.com/api/vglnk.js, line 20: SecurityError: Permission denied to access property "nodeType" on cross-origin object
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567731&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://cdn.viglink.com/api/vglnk.js, line 20: SecurityError: Permission denied to access property "nodeType" on cross-origin object
+JavaScript error: https://cdn.viglink.com/api/vglnk.js, line 20: SecurityError: Permission denied to access property "nodeType" on cross-origin object
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567731&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://ap.lijit.com/www/delivery/fpi.js?{random}&_ADTIME_&z=567733&width=300&height=250, line 2: TypeError: this.log is not a function
+JavaScript error: https://cdn.viglink.com/api/vglnk.js, line 20: SecurityError: Permission denied to access property "nodeType" on cross-origin object
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.591.240&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://cdn.viglink.com/api/vglnk.js, line 20: SecurityError: Permission denied to access property "nodeType" on cross-origin object
+JavaScript error: https://cdn.viglink.com/api/vglnk.js, line 20: SecurityError: Permission denied to access property "nodeType" on cross-origin object
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1625441486976	Marionette	INFO	Stopped listening on port 25704
+1625441494515	geckodriver	INFO	Listening on 127.0.0.1:30467
+1625441513447	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofileEcyB0N"
+1625441514026	Marionette	INFO	Marionette enabled
+1625441515978	Marionette	INFO	Listening on port 25029
+1625441516102	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PLVRLF&l=dataLayer, line 920: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PLVRLF&l=dataLayer, line 920: uncaught exception: [object Object]
+1625441546639	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1625441553247	Marionette	INFO	Stopped listening on port 25029
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625441560086	geckodriver	INFO	Listening on 127.0.0.1:1035
+1625441581530	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofiledQzFvk"
+1625441582779	Marionette	INFO	Marionette enabled
+1625441585926	Marionette	INFO	Listening on port 1045
+1625441585979	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625441588722	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PLVRLF&l=dataLayer, line 920: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PLVRLF&l=dataLayer, line 920: uncaught exception: [object Object]
+1625442166979	Marionette	INFO	Stopped listening on port 1045
+1625442173147	geckodriver	INFO	Listening on 127.0.0.1:17550
+1625442191373	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofileqFZ4DY"
+1625442191929	Marionette	INFO	Marionette enabled
+1625442193878	Marionette	INFO	Listening on port 2043
+1625442194017	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 18280, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: moz-extension://b2a20263-1690-4a45-b9a9-1896b5f2f645/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://cdn.robinhood.com/assets/robinhood/brand/_next/static/chunks/ff43a4be488344a34bb5bea9caf8885514a0b411.05aa158b4c75c8003255.js, line 1: unreachable code after return statement
+1625442197489	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
