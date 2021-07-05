@@ -25,7 +25,7 @@ def wait(browser, selector):
 	return WebDriverWait(browser,timeout=config.TimeOut).until(lambda d: d.find_element_by_css_selector(selector))
 
 
-def upload_video_to_weibo(video, thumbnail):
+def upload_video_to_weibo(video, thumbnail, title):
 	caps = DesiredCapabilities().FIREFOX
 	caps["pageLoadStrategy"] = "eager"  #  complete
 
@@ -70,8 +70,7 @@ def upload_video_to_weibo(video, thumbnail):
 	# therefore control the mouse and keyboard to do the job
 	mouse.move(config.InputBoxX, config.InputBoxY)
 	mouse.click(button='left')
-	title = 'The quick brown fox jumps over the lazy dog.'
-	if  len(title) > 10 :
+	if  len(title) < 11 :
 		title = title + "          "
 	keyboard.write(title)
 
